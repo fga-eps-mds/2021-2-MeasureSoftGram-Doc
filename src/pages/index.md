@@ -17,3 +17,4 @@ Esta wiki é destinada ao time 1 - MeasureSoftGram, e contém toda a documentaç
 | ![Rhuan](/img/members/Rhuan.png) | EPS | 18/0054848 | Rhuan Carlos | [Rhuancpq](https://github.com/Rhuancpq)| rhuancarlos.queiroz@gmail.com |
 | ![Thiago](/img/members/Thiago.png) | EPS | 18/0028260| Thiago Lopes | [thiagolopess](https://github.com/thiagolopess)| thiago.lopes.santos.tls@gmail.com |
 | ![Vitor](/img/members/Vitor.png) | MDS | 20/0028626| Vitor Borges | [VitorB2002](https://github.com/VitorB2002)| vitorb.santos2002@gmail.com |
+| ![Lucas](/img/members/Lucas.png) | MDS | 19/0016663| Lucas Pimentel | [Lucaspimentel123](https://github.com/Lucaspimentel123)| Lucaspimentelq123@hotmail.com |
