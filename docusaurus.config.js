@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'MeasureSoftGram',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'fga-eps-mds', // Usually your GitHub org/user name.
+  projectName: '2021-2-MeasureSoftGram-Doc', // Usually your repo name.
 
   presets: [
     [
@@ -23,15 +23,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -43,7 +37,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'MeasureSoftGram',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -51,13 +45,18 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'artefato/intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentação',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'doc',
+            docId: 'lean/intro',
+            position: 'left',
+            label: 'Lean Inception',
+          },
+          {
+            href: 'https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc',
             label: 'GitHub',
             position: 'right',
           },
@@ -70,43 +69,23 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Introdução',
+                to: 'docs/artefato/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Mais',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        // FIXME - usar licença correta do projeto
+        copyright: `Copyright © ${new Date().getFullYear()} MeasureSoftGram. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
