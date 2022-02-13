@@ -27,6 +27,7 @@ const config = {
         },
         blog: false,
         theme: {
+          defaultDarkMode: true,
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
