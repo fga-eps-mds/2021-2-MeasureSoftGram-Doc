@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MeasureSoftGram',
   tagline: 'Dinosaurs are cool',
-  url: 'https://fga-eps-mds.github.io/2021-2-MeasureSoftGram-Doc/',
-  baseUrl: '/2021-2-MeasureSoftGram-Doc',
+  url: 'https://fga-eps-mds.github.io/',
+  baseUrl: '/2021-2-MeasureSoftGram-Doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
