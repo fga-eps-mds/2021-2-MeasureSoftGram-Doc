@@ -1,0 +1,19 @@
+name: deploy-docusaurus
+on:
+  push:
+    branches: [main]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: redkubes/docusaurus-deploy-action@master
+        with:
+          source-folder: /
+          git-user: $GIT_USER
+          git-password: ${{ secrets.GITHUB_TOKEN }}
+          deployment-branch: gh-pages
