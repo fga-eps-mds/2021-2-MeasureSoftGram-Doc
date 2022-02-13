@@ -9,7 +9,7 @@ const config = {
   title: 'MeasureSoftGram',
   tagline: 'Dinosaurs are cool',
   url: 'https://fga-eps-mds.github.io/2021-2-MeasureSoftGram-Doc/',
-  baseUrl: '/',
+  baseUrl: '/2021-2-MeasureSoftGram-Doc',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
