@@ -3,7 +3,7 @@ id: tap
 title: Termo de Abertura de Projeto
 ---
 
-| Versão | Data       | Modificação                    | Motivo | Autor |
+| Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | ------ | ----- |
 | 1.0    | 14/02/2022 | Criação do Termo de Abertura do Projeto | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
 | 1.1    | 14/02/2022 | Correções ortográficas gerais | Trazer uma melhor leitura do documento | Thiago Lopes |
