@@ -22,3 +22,4 @@ Esta wiki é destinada ao time 1 - MeasureSoftGram, e contém toda a documentaç
 | ![Lucas](/img/members/Lucas.png) | MDS | 19/0016663| Lucas Pimentel | [Lucaspimentel123](https://github.com/Lucaspimentel123)| Lucaspimentelq123@hotmail.com |
 | ![Marcos](/img/members/Marcos.png) | MDS | 20/0062379| Marcos Vinicius | [Marcos574](https://github.com/Marcos574)| mvdeus574@gmail.com |
 | ![Vitor](/img/members/Vitor.png) | MDS | 20/0028626| Vitor Borges | [VitorB2002](https://github.com/VitorB2002)| vitorb.santos2002@gmail.com |
+| ![Samuel](/img/members/Samuel.png) | MDS | 17/0114139| Samuel Macedo | [Slimow](https://github.com/Slimow)| samuelcastro2010@gmail.com |
