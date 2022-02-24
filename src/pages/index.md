@@ -17,7 +17,7 @@ Esta wiki é destinada ao time 1 - MeasureSoftGram, e contém toda a documentaç
 | ![Rhuan](/img/members/Rhuan.png) | EPS | 18/0054848 | Rhuan Carlos | [Rhuancpq](https://github.com/Rhuancpq)| rhuancarlos.queiroz@gmail.com |
 | ![Thiago](/img/members/Thiago.png) | EPS | 18/0028260| Thiago Lopes | [thiagolopess](https://github.com/thiagolopess)| thiago.lopes.santos.tls@gmail.com |
 | ![Ana](/img/members/Ana.png) | MDS | 18/0097181| Ana Beatriz Santos | [anabfs](https://github.com/anabfs)| anna.bf.santos1@gmail.com |
-| ![Jefferson](/img/members/Jefferson.png) | MDS | 18/0102761| Jefferson França | [Fran6s](https://github.com/Fran6s)| jefferson.frds@gmail.com |
+| ![Jefferson](/img/members/Jefferson.png) | MDS | 18/0102761| Jefferson França | [Frans6](https://github.com/Frans6)| jefferson.frds@gmail.com |
 | ![Joao](/img/members/Joao.png) | MDS | 20/0067923| Joao Henrique | [joao-henrique10](https://github.com/joao-henrique10)| jhcalzavara@hotmail.com |
 | ![Lucas](/img/members/Lucas.png) | MDS | 19/0016663| Lucas Pimentel | [Lucaspimentel123](https://github.com/Lucaspimentel123)| Lucaspimentelq123@hotmail.com |
 | ![Marcos](/img/members/Marcos.png) | MDS | 20/0062379| Marcos Vinicius | [Marcos574](https://github.com/Marcos574)| mvdeus574@gmail.com |
