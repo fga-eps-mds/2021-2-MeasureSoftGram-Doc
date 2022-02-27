@@ -14,7 +14,8 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   leanSidebar: ['lean/intro'],
-  docsSidebar: ['artefato/intro', 'artefato/tap'],
+  docsSidebar: ['artifact/intro', ],
+  planningSidebar: ['planning/charter', 'planning/time'],
 };
 
 module.exports = sidebars;
