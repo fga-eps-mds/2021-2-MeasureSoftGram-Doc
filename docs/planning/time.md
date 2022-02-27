@@ -34,7 +34,7 @@ Os atributos das atividades incluem, mas não se limitam a:
 - **Esforço gasto**: esforço gasto realizando a atividade.
 - **Responsável(eis)**: responsáveis por realizar a atividade.
 - **Dependência**: atividade ao qual esta depende.
-- **Individual**: se a atividade pode ser realizada invidualmente, ou seja, sem a participação de mais membros da equipe.
+- **Individual**: se a atividade pode ser realizada individualmente, ou seja, sem a participação de mais membros da equipe.
 
 ## Lista de milestones
 

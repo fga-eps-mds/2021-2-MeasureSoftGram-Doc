@@ -58,7 +58,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'planning/time',
+            docId: 'planning/charter',
             position: 'left',
             label: 'Planejamento',
           },
