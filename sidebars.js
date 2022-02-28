@@ -15,7 +15,7 @@
 const sidebars = {
   leanSidebar: ['lean/intro'],
   docsSidebar: ['artifact/intro'],
-  planningSidebar: ['planning/charter', 'planning/time', 'planning/knowledge_board'],
+  planningSidebar: ['planning/charter', 'planning/wbs', 'planning/time', 'planning/knowledge_board'],
 };
 
 module.exports = sidebars;
