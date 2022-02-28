@@ -15,7 +15,7 @@
 const sidebars = {
   leanSidebar: ['lean/intro'],
   docsSidebar: ['artifact/intro'],
-  planningSidebar: ['planning/charter', 'planning/wbs', 'planning/time', 'planning/knowledge_board', 'planning/communication'],
+  planningSidebar: ['planning/charter', 'planning/wbs', 'planning/time', 'planning/cost', 'planning/knowledge_board', 'planning/communication'],
   contributeSidebar: ['contribute/how_to_contribute', 'contribute/github_standards', 'contribute/code_of_conduct'],
 };
 
