@@ -58,9 +58,15 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'planning/time',
+            docId: 'planning/charter',
             position: 'left',
             label: 'Planejamento',
+          },
+          {
+            type: 'doc',
+            docId: 'contribute/how_to_contribute',
+            position: 'left',
+            label: 'Contribuição',
           },
           {
             href: 'https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc',
@@ -77,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Introdução',
-                to: 'docs/artefato/intro',
+                to: 'docs/artifact/intro',
               },
             ],
           },
