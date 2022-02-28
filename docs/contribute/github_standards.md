@@ -13,13 +13,13 @@ title: Padrões no Github
 
 Utilizar commits que descrevam com poucas palavras e de forma clara, o que foi feito, escritos em inglês. Não serão utilizados verbos no gerúndio, um exemplo:
 
-- 👌 "Add | Remove | Implement"
+- 👌 "Adds | Removes | Implements"
 - 👎 "Adding | Removing | Implementing | Added | Removed | Implemented"
 
 Não tem problema em escrever commits descritivos, explicando outras possíveis soluções e motivação, porém tente escrever resumidamente o conteúdo na primeira linha. Exemplo:
 
 ```
-Add validation to nonprofits state code.
+Adds validation to nonprofits state code.
 
 The create nonprofit command wasn't validating the state code for US states only, when trying to access the application the route match fails.
 
@@ -32,11 +32,11 @@ A hardcoded states list could be used to validate the states or another gem, but
 
 Nomes escritos em inglês.
 
-- docs/nomeDocumento: documentação de algo
-- refactor/descricaoSimples: melhoria realizada
-- fix/descricaoSimples: resolução de um bug
-- feature/descricaoSimples: tarefa realizada
-- minute/dia_mes_ano: adição de uma ata
+- docs/nome-documento: documentação de algo
+- refactor/descricao-simples: melhoria realizada
+- fix/descricao-simples: resolução de um bug
+- feature/descricao-simples: tarefa realizada
+- minute/dia-mes-ano: adição de uma ata
 
 ## Pull request (PR)
 
