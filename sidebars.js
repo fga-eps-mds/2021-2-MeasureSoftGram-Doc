@@ -14,7 +14,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   leanSidebar: ['lean/intro'],
-  docsSidebar: ['artifact/intro', ],
+  docsSidebar: ['artifact/intro', 'artifact/knowledge_board'],
   planningSidebar: ['planning/charter', 'planning/time'],
 };
 
