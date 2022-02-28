@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'Introdução',
-                to: 'docs/artefato/intro',
+                to: 'docs/artifact/intro',
               },
             ],
           },
