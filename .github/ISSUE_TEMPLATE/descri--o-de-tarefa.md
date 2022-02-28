@@ -1,13 +1,13 @@
 ---
-name: Descrição de tarefa
-about: Alguma tarefa que precisa ser realizada
+name: Descrição de atividade
+about: Alguma atividade que precisa ser realizada
 title: ''
-labels: ''
+labels: activity
 assignees: ''
 
 ---
 
-## Descrição da tarefa
+## Descrição da atividade
 (descreva a tarefa de maneira clara)
 
 ## Lista de afazeres

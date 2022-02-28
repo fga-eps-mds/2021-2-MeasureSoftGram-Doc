@@ -2,7 +2,7 @@
 name: Novo documento
 about: Criação de um novo documento
 title: ''
-labels: ''
+labels: documentation
 assignees: ''
 
 ---
