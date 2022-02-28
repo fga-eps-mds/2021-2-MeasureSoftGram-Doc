@@ -17,4 +17,4 @@ Ele também será uma maneira de avaliar a evolução de todos os integrantes a 
 
 <iframe width="750" height="450" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSetwZ7H6c4rDSkQrffZ4rQfVopceQqTbCnZ21Zn4uUfuy14OY-xPWrYRiZG814K2FjjORb89gpNZJC/pubhtml?widget=true&amp;headers=false"></iframe>
 
-[Link para a planilha](https://docs.google.com/spreadsheets/d/1y3KT5vJLXqQNvhHk9OEWu2MuthadcXrW/edit?usp=sharing&ouid=102436679216341216858&rtpof=true&sd=true)
+[Link para a planilha](https://docs.google.com/spreadsheets/d/1fQ61CTZYQBWKRX5QdOj_sAPGhwHvboBf3Uz2yS6905I/edit?usp=sharing)
