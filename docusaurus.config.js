@@ -46,7 +46,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'artefato/intro',
+            docId: 'artifact/intro',
             position: 'left',
             label: 'Documentação',
           },
@@ -55,6 +55,12 @@ const config = {
             docId: 'lean/intro',
             position: 'left',
             label: 'Lean Inception',
+          },
+          {
+            type: 'doc',
+            docId: 'planning/charter',
+            position: 'left',
+            label: 'Planejamento',
           },
           {
             href: 'https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc',
@@ -71,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'Introdução',
-                to: 'docs/artefato/intro',
+                to: 'docs/artifact/intro',
               },
             ],
           },
