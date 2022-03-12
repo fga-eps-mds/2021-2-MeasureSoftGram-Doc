@@ -72,6 +72,10 @@ O **Service** é o serviço responsável por conter e manipular os dados do soft
 
 O **CLI** é uma interface de linha de comando para o software.
 
+### 2.4 Front-end
+
+O front-end é a uma das interfaces com o usuário, juntamente com o CLI, neste caso, o front-end é a interface gráfica.
+
 ## 3. Objetivos Arquiteturais e Restrições
 
 - A arquitetura do software compreende que o software deve ser executado em rede local, sem a necessidade de conexão com a internet.
@@ -82,13 +86,63 @@ O **CLI** é uma interface de linha de comando para o software.
 
 ### 4.1 Desenho de Pacotes Arquiteturalmente Significantes
 
+#### 4.1.1 Core
+
+![Diagrama de Pacotes Core](/img/docs/sad/package-diagram-core.png)
+
+##### core 
+
+Pacote que contém arquivos referentes a lógica principal (modelo matemático) do software.
+
+##### resources 
+
+Contém arquivos referentes ao domínio controller (MVC) do software, recebe esse nome pelo fato de o Flask utilizar o termo `resource` que é análogo a `controller`.
+
+##### utils
+
+Contém arquivos com lógicas utilitárias para as outras camadas do software.
+
+##### tests
+
+Contém arquivos referentes aos testes do software. 
+
+##### unit 
+
+Contém arquivos referentes aos testes unitários do software.
+
+##### integration
+
+Contém arquivos referentes aos testes de integração do software.
+
+#### 4.1.2 Service
+
+![Diagrama de Pacotes API](/img/docs/sad/package-diagram-api.png)
+
+##### model 
+
+Contém arquivos referentes ao domínio modelo (MVC) do software.
+
+##### resources 
+
+Contém arquivos referentes ao domínio controller (MVC) do software, recebe esse nome pelo fato de o Flask utilizar o termo `resource` que é análogo a `controller`.
+
+##### utils
+
+Contém arquivos com lógicas utilitárias para as outras camadas do software.
+
+##### tests
+
+Contém arquivos referentes aos testes do software. 
+
+##### unit 
+
+Contém arquivos referentes aos testes unitários do software.
+
+##### integration
+
+Contém arquivos referentes aos testes de integração do software.
+
 <!-- #### 4.1.1 CLI -->
-
-<!-- #### 4.1.2 Core -->
-
-<!-- #### 4.1.3 Service -->
-
-
 
 ## 6. Visão de Processo
 ### 6.1 Fluxo de dados
@@ -133,7 +187,7 @@ Inicialmente a base de código do modelo matemático está contida num notebook 
 
 #### 8.2.1 Camadas
 
-Esta aplicação utiliza o microframework Flask, e por não havar uma camada de dados a ser implementada, a aplicação não utiliza o padrão MVC, sendo assim se comporta apenas como uma **abstração** REST para o modelo matemático.
+Esta aplicação utiliza o microframework Flask, e por não haver uma camada de dados a ser implementada, a aplicação não utiliza o padrão MVC, embora utilize uma organização em camadas muito semelhante. Sendo assim se comporta como uma **abstração** REST para o modelo matemático.
 
 ### 8.3 CLI
 
@@ -149,7 +203,7 @@ As metodologias adotadas serão Agile, Scrum e XP (programação em pares e inte
 
 A ferramenta utilizada para versionamento será o GitHub, não há padronização para Editor de Texto ou IDE, mas os repositórios de subsistemas deverão estar configurados com ferramentas de análise estática de código. Prevê assim uma melhor eficiência e padronização dos códigos fonte da equipe. Estas análises serão efetuadas automaticamente, por meio da ferramenta de integração contínua chamada GitHub Actions.
 
-Os testes devem ser realizados ao longo do desenvolvimento, e também será utilizado o Sonarcloud para análise estática de qualidade.
+Os testes devem ser realizados ao longo do desenvolvimento, e também será utilizado o SonarCloud para análise estática de qualidade.
 
 
 | Linguagem             | Estilo de código |
