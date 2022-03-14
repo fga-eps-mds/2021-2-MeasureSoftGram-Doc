@@ -6,8 +6,7 @@ title: Como contribuir
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
 | 1.0    | 27/02/2022 | Criação do documento  | - | Igor Paiva e Thiago Lopes |
-
-# Como contribuir
+| 1.1    | 14/04/2022 | Melhoria do guia de contribuição  | - | Lucas Pimentel, Vitor Borges, Samuel Victor, Marcos, Jefferson França, Ana Santos, João Henrique |
 
 ## Primeiramente
 
@@ -16,11 +15,10 @@ Antes de enviar uma alteração para este repositório, se já não houver uma i
 - [Código de conduta](code_of_conduct.md)
 - [Padrões no Github](github_standards.md)
 - Critérios de aceitação devidamente cumpridos
-- Testes automatizados para tudo o que for alterado
 
-## Crie branches
+## Crie branches ou fork
 
-Cria uma branch a partir da `develop`, se atentando para o padrão de nomenclatura.
+Crie sua branch para trabalhar, ou faça um fork do repositório, caso seja um desenvolvedor externo.
 
 ## Crie pull request
 
