@@ -54,7 +54,7 @@ const config = {
             type: 'doc',
             docId: 'lean/intro',
             position: 'left',
-            label: 'Lean Inception',
+            label: 'Visão de produto',
           },
           {
             type: 'doc',
