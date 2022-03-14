@@ -7,17 +7,15 @@ title: Documento de Arquitetura de Software
 | ------ | ---------- | ------------------------------ | ------ | ----- |
 | 1.0    | 01/03/2022 | Criação do documento | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
 
-# Documento de Arquitetura de Software
-
 ## 1. Introdução
 
 ### 1.1 Propósito
 
-Este documento visa apresentar e descrever a arquitetura do MeasureSoftGram levando em conta o MVP da [LI realizada](../lean/intro.md).
+Este documento visa apresentar e descrever a arquitetura do MeasureSoftGram considerando o MVP da [LI realizada](../lean/intro.md).
 
 ### 1.2 Escopo
 
-O escopo deste documento é entendido como o escopo do MeasureSoftGram e seus componentes. Sendo eles: Core e o CLI (MVP).
+O escopo deste documento é entendido como o escopo do MeasureSoftGram e seus componentes. Sendo eles: Core e CLI (MVP).
 
 
 ### 1.3 Definições Acrônimos e Abreviações
@@ -34,7 +32,7 @@ O escopo deste documento é entendido como o escopo do MeasureSoftGram e seus co
 
 > Documento de arquitetura de Software. UFPE. Disponível em: https://www.cin.ufpe.br/~gta/rup-vc/extend.formal_resources/guidances/examples/resources/sadoc_v1.htm. Acesso em: 24/04/2021
 
-> Artefatos do MeasureSoftGram. Disponível em: .
+> Artefatos do MeasureSoftGram. Disponível em: https://fga-eps-mds.github.io/2021-2-MeasureSoftGram-Doc/. Acesso em: 24/04/2021
 
 > Visões Arquiteturais. Disponível em: https://www.dimap.ufrn.br/~thais/Arquitetura20081/Visoes4+1eDocumentacao.pdf. Acesso em: 27/04/2021
 
@@ -74,7 +72,7 @@ O **CLI** é uma interface de linha de comando para o software.
 
 ### 2.4 Front-end
 
-O front-end é a uma das interfaces com o usuário, juntamente com o CLI, neste caso, o front-end é a interface gráfica.
+O front-end é uma das interfaces com o usuário, juntamente com o CLI. Neste caso, o front-end é a interface gráfica do software.
 
 ## 3. Objetivos Arquiteturais e Restrições
 
@@ -90,13 +88,13 @@ O front-end é a uma das interfaces com o usuário, juntamente com o CLI, neste 
 
 ![Diagrama de Pacotes Core](/img/docs/sad/package-diagram-core.png)
 
-##### core 
+##### core
 
-Pacote que contém arquivos referentes a lógica principal (modelo matemático) do software.
+Pacote que contém arquivos referentes à lógica principal (modelo matemático) do software.
 
-##### resources 
+##### resources
 
-Contém arquivos referentes ao domínio controller (MVC) do software, recebe esse nome pelo fato de o Flask utilizar o termo `resource` que é análogo a `controller`.
+Contém arquivos referentes ao domínio controller (MVC) do software. Recebe esse nome pelo fato de o Flask utilizar o termo `resource` que é análogo a `controller`.
 
 ##### utils
 
@@ -104,9 +102,9 @@ Contém arquivos com lógicas utilitárias para as outras camadas do software.
 
 ##### tests
 
-Contém arquivos referentes aos testes do software. 
+Contém arquivos referentes aos testes do software.
 
-##### unit 
+##### unit
 
 Contém arquivos referentes aos testes unitários do software.
 
@@ -118,11 +116,11 @@ Contém arquivos referentes aos testes de integração do software.
 
 ![Diagrama de Pacotes API](/img/docs/sad/package-diagram-api.png)
 
-##### model 
+##### model
 
 Contém arquivos referentes ao domínio modelo (MVC) do software.
 
-##### resources 
+##### resources
 
 Contém arquivos referentes ao domínio controller (MVC) do software, recebe esse nome pelo fato de o Flask utilizar o termo `resource` que é análogo a `controller`.
 
@@ -132,9 +130,9 @@ Contém arquivos com lógicas utilitárias para as outras camadas do software.
 
 ##### tests
 
-Contém arquivos referentes aos testes do software. 
+Contém arquivos referentes aos testes do software.
 
-##### unit 
+##### unit
 
 Contém arquivos referentes aos testes unitários do software.
 
@@ -187,7 +185,7 @@ Inicialmente a base de código do modelo matemático está contida num notebook 
 
 #### 8.2.1 Camadas
 
-Esta aplicação utiliza o microframework Flask, e por não haver uma camada de dados a ser implementada, a aplicação não utiliza o padrão MVC, embora utilize uma organização em camadas muito semelhante. Sendo assim se comporta como uma **abstração** REST para o modelo matemático.
+Esta aplicação utiliza o microframework Flask, e por não haver uma camada de dados a ser implementada, a aplicação não utiliza o padrão MVC, embora utilize uma organização em camadas, muito semelhante. Sendo assim, se comporta como uma **abstração** REST para o modelo matemático.
 
 ### 8.3 CLI
 

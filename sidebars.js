@@ -14,7 +14,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   leanSidebar: ['lean/intro', 'lean/about_product', 'lean/personas', 'lean/results'],
-  docsSidebar: ['artifact/intro', 'artifact/sad'],
+  docsSidebar: ['artifact/sad'],
   planningSidebar: ['planning/charter', 'planning/wbs', 'planning/time', 'planning/cost', 'planning/knowledge_board', 'planning/communication', 'planning/risk'],
   contributeSidebar: ['contribute/how_to_contribute', 'contribute/github_standards', 'contribute/code_of_conduct'],
 };
