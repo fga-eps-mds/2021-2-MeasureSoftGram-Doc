@@ -5,7 +5,7 @@ title: Protótipo de Alta Fidelidade
 
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | ------ | ----- |
-| 1.0    | 14/03/2022 | Criação do documento | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
+| 1.0    | 14/03/2022 | Criação do documento | - | Todos os membros do projeto |
 
 ## Definição 
 
