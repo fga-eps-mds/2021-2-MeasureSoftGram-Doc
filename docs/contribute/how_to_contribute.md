@@ -6,21 +6,21 @@ title: Como contribuir
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
 | 1.0    | 27/02/2022 | Criação do documento  | - | Igor Paiva e Thiago Lopes |
+| 1.1    | 14/04/2022 | Melhoria do guia de contribuição  | - | Lucas Pimentel, Vitor Borges, Samuel Victor, Marcos, Jefferson França, Ana Santos, João Henrique |
 
-# Como contribuir
+# Guia de contribuição
 
 ## Primeiramente
 
 Antes de enviar uma alteração para este repositório, se já não houver uma issue, crie uma a partir do template, e utilize as tags oferecidas para ajudar na identificação da issue. Certifique-se sobre as nossas políticas:
 
-- [Código de conduta](code_of_conduct.md)
-- [Padrões no Github](github_standards.md)
+- [Código de conduta](https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/blob/main/code_of_conduct.md)
+- [Padrões no Github](https://fga-eps-mds.github.io/2021-2-MeasureSoftGram-Doc/docs/contribute/github_standards)
 - Critérios de aceitação devidamente cumpridos
-- Testes automatizados para tudo o que for alterado
 
-## Crie branches
+## Crie branches ou fork
 
-Cria uma branch a partir da `develop`, se atentando para o padrão de nomenclatura.
+Crie sua branch para trabalhar, ou faça um fork do repositório, caso seja um desenvolvedor externo.
 
 ## Crie pull request
 
