@@ -16,6 +16,7 @@ Um protótipo de alta fidelidade parece mais com o produto final e geralmente pr
 Para protótipo de alta fidelidade criamos um CLI **mockado** com os comandos principais baseados no MVP, fizemos uso de Node.js e as libs **commander** e **inquirer** para criar o protótipo.
 
 ## Como executar
+O código do protótipo está na pasta prototype na raiz deste repositório.
 
 Para executar é necessário ter um ambiente de desenvolvimento com o Node.js instalado e o comando npm instalado. Instale as dependências do projeto com o comando:
 
