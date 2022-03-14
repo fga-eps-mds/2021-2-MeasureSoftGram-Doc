@@ -6,8 +6,9 @@ title: Introdução
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | ------ | ----- |
 | 1.0    | 01/03/2022 | Criação do documento | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
+| 1.1    | 13/03/2022 | Alteração do header "O que é?" | - | Igor Paiva |
 
-## O que é?
+## Lean Inception
 
 É uma atividade colaborativa que busca alinhar pessoas para a construção de um mínimo produto viável (MVP).
 

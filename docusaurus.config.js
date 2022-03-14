@@ -54,13 +54,13 @@ const config = {
             type: 'doc',
             docId: 'lean/intro',
             position: 'left',
-            label: 'Lean Inception',
+            label: 'Visão de produto',
           },
           {
             type: 'doc',
             docId: 'planning/charter',
             position: 'left',
-            label: 'Planejamento',
+            label: 'Plano e monitoramento',
           },
           {
             type: 'doc',
