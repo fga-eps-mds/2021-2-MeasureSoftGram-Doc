@@ -6,7 +6,7 @@ title: Planejamento de Tempo
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :------: | ----- |
 | 1.0    | 25/02/2022 | Criação do documento  | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
-
+| 1.1    | 13/03/2022 | Alteração no estilo da planilha (iframe)  | - | Igor Paiva |
 
 ## Introdução
 
@@ -16,7 +16,7 @@ Este documento tem como objetivo documentar o plano de gerenciamento de tempo.
 
 Criamos uma tabela de horários marcando os horários disponíveis para cada membro da equipe. A planilha possui 2 folhas, uma para os integrantes da disciplina de MDS e outra para os de EPS. Esta planilha sempre é utilizada quando se precisa agendar algum evento ou tarefa do projeto.
 
-<iframe width="750" height="450" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGa1o6OGR2076yDwqzUfGTEASGMVqF7sj2zddlVjiqEwwrx225DxeqN-_ANBg_PQ/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGa1o6OGR2076yDwqzUfGTEASGMVqF7sj2zddlVjiqEwwrx225DxeqN-_ANBg_PQ/pubhtml?widget=true&amp;headers=false"></iframe>
 
 [Link para a planilha](https://docs.google.com/spreadsheets/d/1y3KT5vJLXqQNvhHk9OEWu2MuthadcXrW/edit?usp=sharing&ouid=102436679216341216858&rtpof=true&sd=true)
 
@@ -55,7 +55,7 @@ A estimativa utilizada é uma média aritmética entre os 3 valores: `tE = (tO +
 
 Nesta planilha todas as atividades do projeto estarão listadas, juntamente com seus atributos, podendo também incluir gráficos de Gantt. Para cada nova iteração será criada uma nova folha na planilha. As informações presentes nesta planilha podem ser utilizadas para fazer análises em relação ao desempenho e distribuição de trabalho da equipe.
 
-<iframe width="750" height="450" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm6lOlUEmGtRzNXbT4_SaW2r6nhj353U2APGoiOgd-aAf4UUwa9HfdnnSVU_Psiq5FXtxTIxmJ-zC6/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm6lOlUEmGtRzNXbT4_SaW2r6nhj353U2APGoiOgd-aAf4UUwa9HfdnnSVU_Psiq5FXtxTIxmJ-zC6/pubhtml?widget=true&amp;headers=false"></iframe>
 
 [Link para a planilha](https://docs.google.com/spreadsheets/d/14Q73ZPFcaqDDG2ve7tXuiM3Zy-zvPgQoiZegk6xCboE/edit?usp=sharing)
 
