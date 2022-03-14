@@ -60,7 +60,7 @@ const config = {
             type: 'doc',
             docId: 'planning/charter',
             position: 'left',
-            label: 'Planejamento',
+            label: 'Plano e monitoramento',
           },
           {
             type: 'doc',
