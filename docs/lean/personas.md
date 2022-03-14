@@ -6,6 +6,7 @@ title: Personas
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | ------ | ----- |
 | 1.0    | 01/03/2022 | Criação do documento | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
+| 2.0    | 13/03/2022 | Atualização das personas e remoção das jornadas | - | Renan Cristyan |
 
 ## Personas
 
@@ -22,19 +23,6 @@ title: Personas
 ### Miguel
 
 ![Miguel](/img/docs/lean_inception/persona_miguel.png)
-
-## Jornadas
-
-### Valéria
-
-![Jornada valéria](/img/docs/lean_inception/jornada_valeria.png)
-### Paulo
-
-![Jornada Paulo](/img/docs/lean_inception/jornada_paulo.png)
-
-### Miguel
-
-![Jornada Miguel](/img/docs/lean_inception/jornada_miguel.png)
 
 ## Referências
 
