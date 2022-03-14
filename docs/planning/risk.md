@@ -6,6 +6,7 @@ title: Gerenciamento de Riscos
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :------: | ----- |
 | 1.0    | 27/02/2022 | Criação do documento  | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
+| 1.1    | 13/03/2022 | Alteração no estilo da planilha (iframe)  | - | Igor Paiva |
 
 ## Introdução
 
@@ -71,7 +72,7 @@ O planejamento da gerência de risco é o processo de definir como conduzir as a
 
 ### Matriz de probabilidade e impacto - Prioridade
 
-<iframe width="750" height="450" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRErJopqAaKcrv9yp84LPBfYTi-426F7iuKu7lwjlRertKrcDWLACdhuCs3ZZvb5IXWQIAvAF5EA159/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="480px" style={{minWidth: "640px", minHeight: "480px", backgroundColor: "#f4f4f4", border: "1px solid #efefef" }} src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRErJopqAaKcrv9yp84LPBfYTi-426F7iuKu7lwjlRertKrcDWLACdhuCs3ZZvb5IXWQIAvAF5EA159/pubhtml?widget=true&amp;headers=false"></iframe>
 
 [Link para a planilha](https://docs.google.com/spreadsheets/d/1p4XjyUOx4p9woCxHwos3Rk-_RD9AUvUFZ3PK83lX4bM/edit?usp=sharing)
 
