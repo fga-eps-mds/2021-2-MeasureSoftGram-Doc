@@ -6,6 +6,7 @@ title: Documento de Arquitetura de Software
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | ------ | ----- |
 | 1.0    | 01/03/2022 | Criação do documento | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
+| 2.0    | 13/03/2022 | Atualização na arquitetura proposta e adição de diagramas de pacotes | Atualizar a arquitetura em relação ao MVP e trazer uma visão mais clara da estrutura de cada serviço | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
 
 ## 1. Introdução
 
