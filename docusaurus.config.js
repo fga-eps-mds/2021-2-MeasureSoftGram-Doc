@@ -46,7 +46,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'artifact/intro',
+            docId: 'artifact/sad',
             position: 'left',
             label: 'Documentação',
           },
@@ -54,13 +54,13 @@ const config = {
             type: 'doc',
             docId: 'lean/intro',
             position: 'left',
-            label: 'Lean Inception',
+            label: 'Visão de produto',
           },
           {
             type: 'doc',
             docId: 'planning/charter',
             position: 'left',
-            label: 'Planejamento',
+            label: 'Plano e monitoramento',
           },
           {
             type: 'doc',
@@ -83,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Introdução',
-                to: 'docs/artifact/intro',
+                to: 'docs/artifact/sad',
               },
             ],
           },
