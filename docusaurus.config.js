@@ -46,7 +46,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'artifact/intro',
+            docId: 'artifact/sad',
             position: 'left',
             label: 'Documentação',
           },
@@ -83,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Introdução',
-                to: 'docs/artifact/intro',
+                to: 'docs/artifact/sad',
               },
             ],
           },
