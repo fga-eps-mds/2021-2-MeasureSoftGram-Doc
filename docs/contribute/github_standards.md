@@ -6,6 +6,7 @@ title: Padrões no Github
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | :----: | ----- |
 | 1.0    | 25/02/2022 | Criação do documento  | - | Igor Paiva |
+| 2.0   | 18/03/2022 | Atualização dos exemplos de commit, nomes de branch, template de PR e template de atividade  | Melhorar os padrões utilizados para que atentam melhor a necessidade da equipe | Igor Paiva |
 
 # Padrões no Github
 
@@ -13,13 +14,14 @@ title: Padrões no Github
 
 Utilizar commits que descrevam com poucas palavras e de forma clara, o que foi feito, escritos em inglês. Não serão utilizados verbos no gerúndio, um exemplo:
 
+- 👌 "Add | Remove | Implement"
 - 👌 "Adds | Removes | Implements"
 - 👎 "Adding | Removing | Implementing | Added | Removed | Implemented"
 
 Não tem problema em escrever commits descritivos, explicando outras possíveis soluções e motivação, porém tente escrever resumidamente o conteúdo na primeira linha. Exemplo:
 
 ```
-Adds validation to nonprofits state code.
+Add validation to nonprofits state code.
 
 The create nonprofit command wasn't validating the state code for US states only, when trying to access the application the route match fails.
 
@@ -32,17 +34,15 @@ A hardcoded states list could be used to validate the states or another gem, but
 
 Nomes escritos em inglês.
 
-- docs/nome-documento: documentação de algo
-- refactor/descricao-simples: melhoria realizada
+- docs/nome-documento: modificações no geral relaciondas a documentação
+- refactor/descricao-simples: [refatoração](https://refactoring.com/) realizada
 - fix/descricao-simples: resolução de um bug
-- feature/descricao-simples: tarefa realizada
+- feature/descricao-simples: funcionalidade, tarefa ou melhoria realizada
 - minute/dia-mes-ano: adição de uma ata
 
 ## Pull request (PR)
 
 ``` md
-# Mudança tal
-
 ## Descrição
 Escreva uma breve descrição sobre o que o Pull Request resolve
 
@@ -114,13 +114,13 @@ Passos para reproduzir este comportamento:
 (Adicione qualquer outra informação que você julgue necessária)
 ```
 
-### Tarefa
+### Atividade
 
 ``` md
-## Descrição da tarefa
-(descreva a tarefa de maneira clara)
+## Descrição da atividade
+(descreva a atividade de maneira clara)
 
-## Lista de afazeres
+## Lista de afazeres (opcional)
 1. [ ] '...'
 2. [ ] '...'
 ```
