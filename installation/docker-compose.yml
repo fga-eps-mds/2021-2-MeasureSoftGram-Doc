@@ -1,0 +1,37 @@
+version: "3.8"
+services:
+  core:
+    container_name: measuresoftgram-core
+    image: measuresoftgram/core
+    restart: on-failure
+    networks:
+      - measuresoftgram
+  web:
+    container_name: measuresoftgram-service
+    image: measuresoftgram/service
+    ports:
+      - "5000:5000"
+    restart: on-failure
+    networks:
+      - measuresoftgram
+    depends_on:
+      - mongo
+  mongo:
+    container_name: measuresoftgram-db
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+      MONGO_INITDB_DATABASE: measuresoftgram
+    volumes:
+      - db_data:/data/db
+    logging:
+      driver: none
+
+volumes:
+  db_data:
+
+networks:
+  measuresoftgram:
+    external: true
