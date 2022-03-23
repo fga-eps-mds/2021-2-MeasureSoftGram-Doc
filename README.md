@@ -21,6 +21,10 @@ Our project is made using the micro services architecture, so, we have three rep
 
 To run our project it is necessary to follow the detailed steps in each repository.
 
+## License
+
+AGPL-3.0 License
+
 ## Documentation
 
 The documentation of this project can be accessed at this website: [Documentation](https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc).
