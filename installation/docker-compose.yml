@@ -20,6 +20,8 @@ services:
     container_name: measuresoftgram-db
     image: mongo
     restart: always
+    networks:
+      - measuresoftgram
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example
