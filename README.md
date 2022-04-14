@@ -29,6 +29,9 @@ AGPL-3.0 License
 
 The documentation of this project can be accessed at this website: [Documentation](https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc).
 
+# More Informations
+For more informations about the MeasureSoftGram access this website:[Wiki](https://fga-eps-mds.github.io/2021-2-MeasureSoftGram-Doc/).
+
 ## Colaborators
 | Subject | Registration | Name | GitHub | E-mail |
 |:--:|:--:|:--:|:--:|:--:|
