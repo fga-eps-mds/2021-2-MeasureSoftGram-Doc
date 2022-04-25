@@ -11,10 +11,10 @@ title: Como executar
 
 Crie uma pasta no sistema para o MeasureSoftGram, pois para a execução será necessário fazer o download de alguns scripts.
 
-Baixe os scripts de `start`, `stop`, `remove`:
+Baixe os scripts de `start`, `stop`, `remove` e o template de arquivo JSON para criação de pré configuração:
 
 ```
-curl https://raw.githubusercontent.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/main/installation/start.sh -o start.sh && curl https://raw.githubusercontent.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/main/installation/stop.sh -o stop.sh && curl https://raw.githubusercontent.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/main/installation/remove.sh -o remove.sh
+curl https://raw.githubusercontent.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/main/installation/start.sh -o start.sh && curl https://raw.githubusercontent.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/main/installation/stop.sh -o stop.sh && curl https://raw.githubusercontent.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/main/installation/remove.sh -o remove.sh && curl https://raw.githubusercontent.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc/main/installation/pre_config.json -o pre_config.json
 ```
 
 ## Scripts
