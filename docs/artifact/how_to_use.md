@@ -6,6 +6,7 @@ title: Como executar
 | Versão | Data       | Modificação                    | Motivo | Autor(es) |
 | ------ | ---------- | ------------------------------ | ------ | ----- |
 | 1.0    | 22/03/2022 | Criação do documento | - | Igor Paiva e Rhuan Queiroz |
+| 2.0    | 25/04/2022 | Adição do script de remove, arquivo JSON pré config | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
 
 ## Como executar
 
