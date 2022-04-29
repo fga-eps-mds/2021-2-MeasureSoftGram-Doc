@@ -69,10 +69,17 @@ const config = {
             label: 'Contribuição',
           },
           {
+            type: 'doc',
+            docId: 'scrum/sprint_1/revisao',
+            position: 'left',
+            label: 'Scrum',
+          },
+          {
             href: 'https://github.com/fga-eps-mds/2021-2-MeasureSoftGram-Doc',
             label: 'GitHub',
             position: 'right',
           },
+
         ],
       },
       footer: {
