@@ -28,7 +28,7 @@ title: Revisão
 - Os critérios de aceitação não ficaram prontos em tempo hábil
   - Não tem muito o que fazer
 - Falta de tempo para conciliar com outras matérias
-  - Buscar um melhor conciliamentodo tempo separando duas horas diárias para a matéria
+  - Buscar um melhor conciliamento do tempo separando duas horas diárias para a matéria
 - Falta de conhecimento, gastando bastante tempo para fazer as coisas
   - Observar com mais calma as documentações
 
@@ -46,7 +46,16 @@ title: Revisão
 
 ## Mudanças no backlog de produto
 
-Sem mudanças.
+Foram despriorizadas:
+- Implementar operação de comparação trigonométrica
+
+Foram priorizadas:
+- Análises das releases utilizando a mesma pré configuração
+
+Foram merjadas:
+- Implementar operação de agregragação
+- Implementar operação de ponderação
+- Realizar análise
 
 ## Referências
 
