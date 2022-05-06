@@ -23,7 +23,8 @@ const sidebars = {
     "Sprint 3": ['scrum/sprint_3/planejamento', 'scrum/sprint_3/revisao', 'scrum/sprint_3/retrospectiva'],
     "Sprint 4": ['scrum/sprint_4/planejamento', 'scrum/sprint_4/revisao', 'scrum/sprint_4/retrospectiva'],
     "Sprint 5": ['scrum/sprint_5/planejamento', 'scrum/sprint_5/revisao', 'scrum/sprint_5/retrospectiva'],
-    "Sprint 6": ['scrum/sprint_6/planejamento']
+    "Sprint 6": ['scrum/sprint_6/planejamento', 'scrum/sprint_6/revisao', 'scrum/sprint_6/retrospectiva'],
+    "Sprint 7": ['scrum/sprint_7/planejamento', 'scrum/sprint_7/revisao', 'scrum/sprint_7/retrospectiva']
   }
 };
 

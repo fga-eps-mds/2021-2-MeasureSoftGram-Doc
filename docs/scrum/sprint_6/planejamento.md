@@ -24,15 +24,10 @@ title: Planejamento
 
 ## Backlog da sprint
 
-- Criar a pré-configuração - Após reunião
-- Leitura das métricas - Após reunião
-- Criar função de interpret. cobertura - Após reunião
 - Operação de agregação (LET'S DO IT!) - Lucas e Vitor
 - Implementar a melhoria de criação por arquivo JSON - Marcos e Ana
 - Visualizar a pré configuração do modelo - Jeff, Samuel e Joao
-- Obter resultados em forma textual - Renan e Thiago
-- Implementar operação de comparação trigonométrica - Igor e Rhuan
-
+- Realizar o cálculo (ponderação, agregação) e obter os resultados em forma textual - Vitor, Lucas, Rhuan e Thiago
 
 ## Referências
 
