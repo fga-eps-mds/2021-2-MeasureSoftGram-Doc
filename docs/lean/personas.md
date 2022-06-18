@@ -7,6 +7,7 @@ title: Personas
 | ------ | ---------- | ------------------------------ | ------ | ----- |
 | 1.0    | 01/03/2022 | Criação do documento | - | Igor Paiva, Renan Cristyan, Rhuan Queiroz, Thiago Lopes |
 | 2.0    | 13/03/2022 | Atualização das personas e remoção das jornadas | - | Renan Cristyan |
+| 2.1    | 18/06/2022 | Adição de mais uma persona | - | Durval Carvalho |
 
 ## Personas
 
@@ -23,6 +24,10 @@ title: Personas
 ### Miguel
 
 ![Miguel](/img/docs/lean_inception/persona_miguel.png)
+
+### Gustavo
+
+![Gustavo](/img/docs/lean_inception/persona_gustavo.png)
 
 ## Referências
 
